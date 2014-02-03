@@ -1,0 +1,36 @@
+{
+  "name": "stdelm",
+  "description": "pipe DOM element keyboard input to stream",
+  "version": "0.1.0",
+  "homepage": "https://github.com/parroit/stdelm",
+  "author": {
+    "name": "Andrea Parodi",
+    "email": "andrea.parodi@ebansoftware.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/parroit/stdelm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/parroit/stdelm/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/parroit/stdelm/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/stdelm",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    
+    "expect": "~0.2.0"
+    
+  },
+  "keywords": []
+}

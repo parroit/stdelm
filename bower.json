@@ -1,6 +1,6 @@
 {
   "name": "stdelm",
-  "description": "pipe DOM element keyboard input to stream",
+  "description": "pipe DOM element keyboard input to a stream",
   "version": "0.1.0",
   "homepage": "https://github.com/parroit/stdelm",
   "author": {
